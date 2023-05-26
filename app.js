@@ -23,6 +23,7 @@ Swal.fire(
 const eleccionComputadora = () => {
     let opcionAlzar = Math.floor(Math.random()*3);
     
+    
     //Opcion piedra
 
     if(opcionAlzar ==0 ){
